@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/space.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: b9661b0ccdad70547807540f3ae9e63b
+  - enabled: 1
+    path: Assets/Scenes/notifications.unity
+    guid: fe8a22e84fe90df46a3cb06fc016f6a4
+  - enabled: 1
+    path: Assets/Scenes/profile.unity
+    guid: a20e704391a5cb247a93b6a91abb8ad5
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 07299d016f2c6430d82b6e4b018a2b6d, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 30e6f0cba46164e3893a43228a1b8ed5, type: 2}
